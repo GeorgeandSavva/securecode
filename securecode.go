@@ -1,4 +1,4 @@
-package securecode
+package main
 
 func Generate(len int) int {
 	return generate(len)
